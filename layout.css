@@ -1,446 +1,505 @@
- back-ground{
+.blue {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.yellow {
     position: absolute;
-    width: 3298px;
-    height: 919px;
+    left: -108px;
+    top: 517px;
+}
+.pink {
+    position: absolute;
+    left: -108px;
+    top: 496px;
 }
 .bn-connie {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 252px;
-    max-width: auto;
-    left: 862px;
-    top: 690px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 251px;
+  max-width: auto;
+  left: 862px;
+  top: 690px;
 }
 .bn-anna {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 143.26px;
-    max-width: auto;
-    left: 807.1px;
-    top: 595px;
-    transform: rotate(0.84deg);
+  position: absolute;
+  width: auto;
+  height: 143.26px;
+  left: 807.1px;
+  top: 595px;
+}
+.bn-anna2 {
+  position: relative;
+  width: auto;
+  height: 143.26px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0.84deg);
 }
 .bn-adi {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 179.08px;
-    max-width: auto;
-    left: 0px;
-    top: 672.49px;
+  position: absolute;
+  width: auto;
+  height: 179.08px;
+  left: 0px;
+  top: 672.49px;
+}
+.bn-adi2 {
+  position: relative;
+  width: auto;
+  height: 179.08px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(-1.05deg);
 }
 .bn-haley {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 250px;
-    max-width: auto;
-    left: 2233px;
-    top: 638px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 250px;
+  max-width: auto;
+  left: 2233px;
+  top: 638px;
 }
 .bn-chase {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 94px;
-    max-width: auto;
-    left: 2558px;
-    top: 456px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 94px;
+  max-width: auto;
+  left: 2558px;
+  top: 456px;
 }
 .bn-adil {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 223px;
-    max-width: auto;
-    left: 2797px;
-    top: 362px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 223px;
+  max-width: auto;
+  left: 2797px;
+  top: 362px;
 }
 .bn-cooper {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 121px;
-    max-width: auto;
-    left: 2661px;
-    top: 554px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 121px;
+  max-width: auto;
+  left: 2661px;
+  top: 554px;
 }
 .bn-justin {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 208px;
-    max-width: auto;
-    left: 2904px;
-    top: 474px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 208px;
+  max-width: auto;
+  left: 2904px;
+  top: 474px;
 }
 .bn-shanna {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 153px;
-    max-width: auto;
-    left: 2657px;
-    top: 430px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 153px;
+  max-width: auto;
+  left: 2657px;
+  top: 430px;
 }
 .bn-ryan {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 346.89px;
-    max-width: auto;
-    left: 2299px;
-    top: 303.27px;
-    /* transform: rotate(-17.52deg); */
+  position: absolute;
+  width: auto;
+  height: 346.89px;
+  left: 2299px;
+  top: 303.27px;
+}
+.bn-ryan2 {
+  position: relative;
+  width: auto;
+  height: 346.89px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(-17.52deg);
 }
 .bn-melody {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 329px;
-    max-width: auto;
-    left: 547px;
-    top: 420px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 329px;
+  max-width: auto;
+  left: 547px;
+  top: 420px;
 }
 .bn-alicia {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 273px;
-    max-width: auto;
-    left: 2122px;
-    top: 402px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 273px;
+  max-width: auto;
+  left: 2122px;
+  top: 402px;
 }
 .bn-sami {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 115px;
-    max-width: auto;
-    left: 1259px;
-    top: 569px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 115px;
+  max-width: auto;
+  left: 1259px;
+  top: 569px;
 }
 .bn-liz {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 136px;
-    max-width: auto;
-    left: 2599px;
-    top: 36px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 136px;
+  max-width: auto;
+  left: 2599px;
+  top: 36px;
 }
 .bn-mateo {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 202px;
-    max-width: auto;
-    left: 1069px;
-    top: 624px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 202px;
+  max-width: auto;
+  left: 1069px;
+  top: 624px;
 }
 .bn-mia {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 214px;
-    max-width: auto;
-    left: 228px;
-    top: 682px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 214px;
+  max-width: auto;
+  left: 228px;
+  top: 682px;
 }
-.bn-kai{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 247.27px;
-    max-width: auto;
-    left: 468.45px;
-    top: 710px;
-    transform: rotate(2.19deg);
+.bn-kai {
+  position: absolute;
+  width: auto;
+  height: 247.27px;
+  left: 468.45px;
+  top: 710px;
+}
+.bn-kai2 {
+  position: relative;
+  width: auto;
+  height: 247.27px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(2.19deg);
 }
 .bn-jazzy {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 257px;
-    max-width: auto;
-    left: 2430.23px;
-    top: 496px;
-    transform: rotate(4.51deg);
+  position: absolute;
+  width: auto;
+  height: 257px;
+  left: 2430.23px;
+  top: 496px;
+}
+.bn-jazzy2 {
+  position: relative;
+  width: auto;
+  height: 257px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(4.51deg);
 }
 .bn-charlie {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 189px;
-    max-width: auto;
-    left: 3000px;
-    top: 595px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 189px;
+  max-width: auto;
+  left: 3000px;
+  top: 595px;
 }
 .bn-kitty {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 244px;
-    max-width: auto;
-    left: 403px;
-    top: 379px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 244px;
+  max-width: auto;
+  left: 478px;
+  top: 379px;
 }
 .bn-tino {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 118px;
-    max-width: auto;
-    left: 817px;
-    top: 467px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 118px;
+  max-width: auto;
+  left: 817px;
+  top: 467px;
 }
 .bn-grace {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 238px;
-    max-width: auto;
-    left: 2971px;
-    top: 332px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 238px;
+  max-width: auto;
+  left: 2971px;
+  top: 332px;
 }
 .bn-ethan {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 154px;
-    max-width: auto;
-    left: 2429px;
-    top: 734px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 154px;
+  max-width: auto;
+  left: 2429px;
+  top: 734px;
 }
 .bn-luc {
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 325px;
-    max-width: auto;
-    left: 247px;
-    top: 363px;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 325px;
+  max-width: auto;
+  left: 172px;
+  top: 363px;
 }
-.bn-tory{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 290px;
-    max-width: auto;
-    left: 1212px;
-    top: 305px;
+.bn-tory {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 290px;
+  max-width: auto;
+  left: 1212px;
+  top: 305px;
 }
-.bn-joel{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 187px;
-    max-width: auto;
-    left: 3063px;
-    top: 735.76px;
-    transform: rotate(-6.97deg);
+.bn-joel {
+  position: absolute;
+  width: auto;
+  height: 187px;
+  left: 3063px;
+  top: 735.76px;
 }
-.bn-ire{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 237px;
-    max-width: auto;
-    left: 384px;
-    top: 553px;
+.bn-joel2 {
+  position: relative;
+  width: auto;
+  height: 187px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(-6.97deg);
 }
-.bn-jai{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 186px;
-    max-width: auto;
-    left: 17px;
-    top: 528px;
+.bn-ire {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 237px;
+  max-width: auto;
+  left: 384px;
+  top: 553px;
 }
-.bn-nicole{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 244px;
-    max-width: auto;
-    left: 3000px;
-    top: 595px;
+.bn-jai {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 186px;
+  max-width: auto;
+  left: 17px;
+  top: 528px;
 }
-.bn-rylan{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 217px;
-    max-width: auto;
-    left: 2577px;
-    top: 679px;
+.bn-nicole {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 244px;
+  max-width: auto;
+  left: 2849px;
+  top: 652px;
 }
-.bn-will{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 346px;
-    max-width: auto;
-    left: 1035px;
-    top: 338px;
+.bn-rylan {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 217px;
+  max-width: auto;
+  left: 2577px;
+  top: 679px;
 }
-.bn-alex{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 214px;
-    max-width: auto;
-    left: 3158px;
-    top: 545px;
+.bn-will {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 346px;
+  max-width: auto;
+  left: 1035px;
+  top: 338px;
 }
-.bn-beats{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 173px;
-    max-width: auto;
-    left: 257px;
-    top: 53px;
+.bn-alex {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 214px;
+  max-width: auto;
+  left: 3158px;
+  top: 545px;
 }
-.bn-bird{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 209px;
-    max-width: auto;
-    left: 1212px;
-    top: 163px;
+.bn-beats {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 173px;
+  max-width: auto;
+  left: 257px;
+  top: 53px;
 }
-.bn-megajugunda{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 100px;
-    max-width: auto;
-    left: 441px;
-    top: 263px;
+.bn-bird {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 209px;
+  max-width: auto;
+  left: 1212px;
+  top: 163px;
 }
-.bn-list{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 150px;
-    max-width: auto;
-    left: 418px;
-    top: 163px;
+.bn-megajugunda {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 100px;
+  max-width: auto;
+  left: 441px;
+  top: 263px;
 }
-.bn-ohio{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 168px;
-    max-width: auto;
-    left: 2106px;
-    top: 104px;
+.bn-list {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 150px;
+  max-width: auto;
+  left: 418px;
+  top: 163px;
 }
-.bn-penant{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 463px;
-    max-width: auto;
-    left: 411px;
-    top: -32px;
+.bn-ohio {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 168px;
+  max-width: auto;
+  left: 2106px;
+  top: 104px;
 }
-.bn-shrek{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 336px;
-    max-width: auto;
-    left: 2340px;
-    top: 17px;
+.bn-penant {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 463px;
+  max-width: auto;
+  left: 386px;
+  top: -32px;
 }
-.bn-skateboard{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 429px;
-    max-width: auto;
-    left: 25px;
-    top: 194px;
+.bn-shrek {
+  position: absolute;
+  width: auto;
+  height: 336px;
+  left: 2340px;
+  top: 17px;
 }
-.bn-shelf{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 306px;
-    max-width: auto;
-    left: 2809px;
-    top: 77px;
+.bn-skateboard {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 429px;
+  max-width: auto;
+  left: -50px;
+  top: 194px;
 }
-.bn-everest{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 286px;
-    max-width: auto;
-    left: 2623.45px;
-    top: 177.29px;
-    transform: rotate(-4.51deg);
+.bn-shelf {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 306px;
+  max-width: auto;
+  left: 2809px;
+  top: 77px;
 }
-.bn-vert{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 158px;
-    max-width: auto;
-    left: 2221px;
-    top: 104px;
+.bn-everest {
+  position: absolute;
+  width: auto;
+  height: 286px;
+  left: 2623.45px;
+  top: 177.29px;
 }
-.bn-jimmydre{
-    position: absolute;
-    width: auto;
-    height: auto;
-    max-height: 186px;
-    max-width: auto;
-    left:1228px;
-    top: 17px;
+.bn-everest2 {
+  position: relative;
+  width: auto;
+  height: 286px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(-4.51deg);
 }
-.bn-bulletin{
-    position: absolute;
-    height: auto;
-    width: auto;
-    max-height: 505px;
-    max-width: auto;
-    left:678px;
-    top: -32px;
+.bn-vert {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 158px;
+  max-width: auto;
+  left: 2221px;
+  top: 104px;
 }
-.bn-enjoy{
-    position: absolute;
-    height: auto;
-    width: auto;
-    max-height: 188px;
-    max-width: auto;
-    left:215.4px;
-    top: 228px;
-    transform: rotate(3.78deg);
+.bn-jimmydre {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-height: 186px;
+  max-width: auto;
+  left: 1228px;
+  top: 17px;
 }
-.bn-mega{
-    position: absolute;
-    height: auto;
-    width: auto;
-    max-height: 319px;
-    max-width: auto;
-    left:2016.42px;
-    top: 221.85px;
-    transform: rotate(-5.11deg);
+.bn-bulletin {
+  position: absolute;
+  height: auto;
+  width: auto;
+  max-height: 505px;
+  max-width: auto;
+  left: 678px;
+  top: -32px;
 }
-.bn-iya{
-    position: absolute;
-    height: auto;
-    width: auto;
-    max-height: 87px;
-    max-width: auto;
-    left: 2259.7px;
-    top: 230px;
-    transform: rotate(17.87deg);
+.bn-enjoy {
+  position: absolute;
+  width: auto;
+  height: 188px;
+  left: 215.4px;
+  top: 228px;
+}
+.bn-enjoy2 {
+  position: relative;
+  width: auto;
+  height: 188px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(3.78deg);
+}
+.bn-mega {
+  position: absolute;
+  width: auto;
+  height: 319px;
+  left: 2016.42px;
+  top: 221.85px;
+}
+.bn-mega2 {
+  position: relative;
+  width: auto;
+  height: 319px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(-5.11deg);
+}
+.bn-iya {
+  position: absolute;
+  width: auto;
+  height: 87px;
+  left: 2259.7px;
+  top: 230px;
+}
+.bn-iya2 {
+  position: relative;
+  width: auto;
+  height: 87px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(17.87deg);
 }
