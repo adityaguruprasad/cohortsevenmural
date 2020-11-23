@@ -1,5 +1,5 @@
 back-ground {
-    position: relative;
+    position: static;
     width: 3298px;
     height: 919px;
 }
@@ -223,12 +223,76 @@ back-ground {
     left: 247px;
     top: 363px;
 }
-.bn- {
+.bn-tory{
     position: absolute;
     width: auto;
     height: auto;
     max-height: 100px;
     max-width: 100px;
-    left: 2657px;
-    top: 430px;
+    left: 1212px;
+    top: 305px;
+}
+.bn-joel{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+    left: 3063px;
+    top: 735.76px;
+    transform: rotate(-6.97deg);
+}
+.bn-ire{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+    left: 384px;
+    top: 553px;
+}
+.bn-jai{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+    left: 17px;
+    top: 528px;
+}
+.bn-nicole{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+    left: 3000px;
+    top: 595px;
+}
+.bn-rylan{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+    left: 2577px;
+    top: 679px;
+}
+.bn-will{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+    left: 1035px;
+    top: 338px;
+}
+.bn-alex{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+    left: 3158px;
+    top: 545px;
 }
